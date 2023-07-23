@@ -6,7 +6,7 @@ City Simulation - Utopia
 
 ___
 ## Description
-A tycoon -like real-time city builder game.
+A tycoon-like real-time city builder game.
 
 ___
 ## Usage
